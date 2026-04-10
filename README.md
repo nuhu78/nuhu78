@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm MD Tangimul Anajam Nuhu 👋
 
-<!--
-**nuhu78/nuhu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at AIUB   
+💻 Aspiring Software Engineer  
+🚀 Interested in Backend & API Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Languages: C/C++, Java, C#, Python, JavaScript, TypeScript, PHP  , Html ,Css , NodeJs , TypeScript 
+- Framework: .NET Core, Django, Django REST Framework  
+- Database: SQL, MySQL, Oracle  
+- Tools: Git, GitHub, Linux  
+
+
+
+## 📚 Currently Learning
+- React  
+- NestJS  
+- DevOps  
+
+---
+
+## 📫 Contact
+- Email: anjum.nuhu67@gmail.com  
+- GitHub: https://github.com/nuhu78  
