@@ -1,4 +1,4 @@
-# Hi, I'm MD Tangimul Anajam Nuhu 👋
+# Hi, I'm MD Tangimul Anjam Nuhu 👋
 
 🎓 CSE Student at AIUB   
 💻 Aspiring Software Engineer  
