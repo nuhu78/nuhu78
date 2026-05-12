@@ -4,7 +4,7 @@
 💻 Aspiring Software Engineer  
 🚀 Interested in Backend & API Development  
 
----
+
 
 ## 🔧 Skills
 - Languages: C/C++, Java, C#, Python, JavaScript, TypeScript, PHP  , Html ,Css , NodeJs 
@@ -12,8 +12,11 @@
 - Database: SQL, MySQL, Oracle  
 - Tools: Git, GitHub, Linux  
 
+---
 
-  
+  🚀 **Currently Working On:** [Smart Parking Reservation System](https://github.com/nuhu78/Smart-Parking-Reservation-System.git)  
+🛠️ **Tech Stack:** Next.js (Frontend) | NestJS (Backend) | PostgreSQL (Database)
+
 
 ---
 
