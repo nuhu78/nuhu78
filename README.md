@@ -14,7 +14,7 @@
 
 ---
 
-  🚀 **Currently Working On:** [Pos System](https://github.com/nuhu78/POS-System-.git)  
+  🚀 **Currently Working On:** [Pos System](https://github.com/nuhu78/POS)  
 🛠️ **Tech Stack:**  Spring Boot (Backend) | PostgreSQL (Database)
 
 
